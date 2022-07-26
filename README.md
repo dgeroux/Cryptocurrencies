@@ -8,7 +8,7 @@ The data I'm working with is not ideal, so it will need to be processed to fit t
 
 ## Code
 
-View the code here: [link](https://github.com/dgeroux/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
+View the code here: [Unsupervised Machine Learning](https://github.com/dgeroux/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
 
 ## Visualizations 
 
